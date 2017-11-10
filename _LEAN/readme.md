@@ -29,6 +29,10 @@ objetivo final será a elaboração de propostas de melhoria para o sistema de logí
 
 ![Alt text](https://github.com/phoenixproject/logisticasustentavel/blob/master/_MEDIA/_LEAN/analise_desperdicio.png?raw=true "Fluxo desnecessário no processo")
 
+# Aplicação de Melhoria em Processo
+
+![Alt text](https://github.com/phoenixproject/logisticasustentavel/blob/master/_MEDIA/_LEAN/modelo_reformulado.png?raw=true "Modelo Reformulado")
+
 # Requisitos
 
 # Design
