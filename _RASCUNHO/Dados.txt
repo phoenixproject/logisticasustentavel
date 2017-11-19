@@ -1,0 +1,6 @@
+Com a quantidade de backlog inicial, em cima deste backlog quantas
+itereções (sprint) vão ter.
+(CRonograma) Fazer um calendário com início, meio, fim, feriados, férias das equipe.
+Como as iterações vão acontecer.
+Como fazer os encontros com o cliente para a próxima iteração.
+

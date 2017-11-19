@@ -42,3 +42,13 @@ objetivo final será a elaboração de propostas de melhoria para o sistema de logí
 # Teste
 
 # Deploy
+
+#### Alterar no Projeto:
+
+- Identificar escopo inicial <br/>
+- Exibir Protótipos <br/>
+- Trazer o backlog pronto para o número de histórias que estarão nas iterações <br/>
+- Análise de Riscos e Plano de Ação (podendo usar uma planilha com cores para definir o estado dos riscos e o que se pode fazer)
+- 
+
+# Gestão de Riscos
