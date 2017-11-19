@@ -55,8 +55,8 @@ objetivo final será a elaboração de propostas de melhoria para o sistema de logí
 
 # Cronograma
 
-| Tarefa | Início | Fim | Sprint |
-| --- | --- |  --- |  --- | 
+| Tarefa | Semana |
+| --- | --- | 
 | SEMANA 01 | -- |
 | Início do Projeto | 01 |
 | Estrevistar Stakeholder | 01 |
@@ -73,19 +73,21 @@ objetivo final será a elaboração de propostas de melhoria para o sistema de logí
 | Validar com Cliente | 03 |
 | Análise entregue | 03 |
 | SEMANA 04 | -- |
-| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
-| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
-| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
-| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
-| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
-| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
-| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
-| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
-| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
-| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
-| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
-| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
-| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Planejamento | 04 |
+| Construir Diagramas de Classes | 04 |
+| Construir Diagrama de Domínio | 04 |
+| Entrega Planejamento | 04 |
+| SEMANA 05 | -- |
+| Modelo Lógico | 05 |
+| Modelo Físico | 05 |
+| Entrega da Modelagem do Banco | 05 |
+| Desenvolver Cadastro Indicadores | 05 |
+| Desenvolver Cadastro Comitê | 05 |
+| Desenvolver cadastro areas de atuação | 05 |
+| Desenvolver cadastro metas | 05 |
+| Desenvolver cadastro plano de  ação | 05 |
+| Entrega do Cadastro | 05 |
+| SEMANA 06 | -- |
 | Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
 | Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
 | Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
