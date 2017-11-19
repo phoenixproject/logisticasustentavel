@@ -52,3 +52,16 @@ objetivo final será a elaboração de propostas de melhoria para o sistema de logí
 - 
 
 # Gestão de Riscos
+
+# Cronograma
+
+| Tarefa | Início | Fim |
+| --- | --- | 
+| Início do Projeto | 02/01/2018 | 02/01/2018 |
+| Início do Projeto | 02/01/2018 | 02/01/2018 |
+| Início do Projeto | 02/01/2018 | 02/01/2018 |
+| Início do Projeto | 02/01/2018 | 02/01/2018 |
+| Início do Projeto | 02/01/2018 | 02/01/2018 |
+| Início do Projeto | 02/01/2018 | 02/01/2018 |
+| Início do Projeto | 02/01/2018 | 02/01/2018 |
+| Início do Projeto | 02/01/2018 | 02/01/2018 |
