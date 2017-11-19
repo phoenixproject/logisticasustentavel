@@ -55,13 +55,46 @@ objetivo final será a elaboração de propostas de melhoria para o sistema de logí
 
 # Cronograma
 
-| Tarefa | Início | Fim |
-| --- | --- |  --- | 
-| Início do Projeto | 02/01/2018 | 02/01/2018 |
-| Início do Projeto | 02/01/2018 | 02/01/2018 |
-| Início do Projeto | 02/01/2018 | 02/01/2018 |
-| Início do Projeto | 02/01/2018 | 02/01/2018 |
-| Início do Projeto | 02/01/2018 | 02/01/2018 |
-| Início do Projeto | 02/01/2018 | 02/01/2018 |
-| Início do Projeto | 02/01/2018 | 02/01/2018 |
-| Início do Projeto | 02/01/2018 | 02/01/2018 |
+| Tarefa | Início | Fim | Sprint |
+| --- | --- |  --- |  --- | 
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Estrevistar Stakeholder | 02/01/2018 | 02/01/2018 | --- |
+| Documentar de requisitos | 03/01/2018 | 04/01/2018 | --- |
+| Prototipar as telas do sistema | 05/01/2018 | 09/01/2018 | --- |
+| Reunir a Equipe | 10/01/2018 | 10/01/2018 | --- |
+| SEMANA 01 | --- | --- | --- |
+| Validar com cliente | 10/01/2018 | 10/01/2018 | 01 |
+| Treinar a equipe | 11/01/2018 | 12/01/2018 | 01 |
+| Analise Entregue | 15/01/2018 | 17/01/2018 | 01 |
+| SEMANA 02 | --- | --- | 02 |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | 02 |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | 02 |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | 02 |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
+| Início do Projeto | 02/01/2018 | 02/01/2018 | --- |
