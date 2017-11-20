@@ -33,27 +33,9 @@ objetivo final será a elaboração de propostas de melhoria para o sistema de logí
 
 ![Alt text](https://github.com/phoenixproject/logisticasustentavel/blob/master/_MEDIA/_LEAN/modelo_reformulado.png?raw=true "Modelo Reformulado")
 
-# Requisitos
+###### cronograma
 
-# Design
-
-# Buid:
-
-# Teste
-
-# Deploy
-
-#### Alterar no Projeto:
-
-- Identificar escopo inicial <br/>
-- Exibir Protótipos <br/>
-- Trazer o backlog pronto para o número de histórias que estarão nas iterações <br/>
-- Análise de Riscos e Plano de Ação (podendo usar uma planilha com cores para definir o estado dos riscos e o que se pode fazer)
-- 
-
-# Gestão de Riscos
-
-# Cronograma
+# Cronograma do Projeto
 
 | Tarefa | Semana |
 | --- | --- | 
@@ -67,7 +49,7 @@ objetivo final será a elaboração de propostas de melhoria para o sistema de logí
 | Validar com cliente | 02 |
 | Treinar a equipe | 02 |
 | Analise Entregue | 02 |
-| SEMANA 03 | -- |
+| --- | SEMANA 03 |
 | Definir Plataforma | 03 |
 | Reunir a Equipe | 03 |
 | Validar com Cliente | 03 |
