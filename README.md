@@ -22,3 +22,8 @@ Gestão de Projetos - Logística Sustentável (Projeto Acadêmico)
 * Equipe
 * Tipos de Projetos
 * Ferramentas
+
+#### Gerenciamento de Riscos:
+
+* Gerencimento de Riscos em 3 passos (https://hinc.com.br/gerenciamento-de-riscos-exemplo/)
+* Plano de Gerencimento de Riscos (https://escritoriodeprojetos.com.br/plano-de-gerenciamento-dos-riscos)
