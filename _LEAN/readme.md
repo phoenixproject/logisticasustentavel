@@ -122,7 +122,7 @@ Será usado para identificar riscos	No início do projeto e sempre que for necessá
 
 # 3.1 -	EAR (Estrutura Analítica dos Riscos)
 
-![Alt text](https://github.com/phoenixproject/viagemestelar/blob/master/_MEDIA/diagrama_de_subsistemas.png?raw=true "Diagrama de Subsistemas")
+![Alt text](https://github.com/phoenixproject/logisticasustentavel/blob/master/_MEDIA/_LEAN/estrutura_analitica_projeto.jpg?raw=true "Estrutura Analítica do Projeto")
 
 4	Realizar a análise qualitativa dos riscos
 [Descreva como será feita a análise qualitativa dos riscos. Saiba mais em Realizar a análise qualitativa dos riscos.]
