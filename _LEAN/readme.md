@@ -2,6 +2,226 @@ Bem-Vindo ao projeto da Logística Sustentável utilizando Lean! Aqui você encontr
 
 # Iniciação do Projeto
 
+1. Objetivo do Plano de gerenciamento dos riscos
+ 1.1. Metodologia
+ Os Processos de desenvolvimento devem ser simplificados, eficientes e voltados para a produção de resultados. Tem como base a Produção Enxuta (Lean Production) e pode ser utilizada em conjunto com outras metodologias ágeis.
+[Descreva o objetivo do Plano de gerenciamento dos riscos. ]
+Gerenciar os riscos do projeto requer um Plano de gerenciamento dos riscos descrevendo como os processos de riscos serão estruturados e executados iniciando pela identificação dos riscos, suas análises qualitativa e quantitativa, seu plano de respostas e concluindo com a forma que os riscos serão controlados e monitorados.
+O Plano de gerenciamento dos riscos é desenvolvido e aprovado durante a fase de planejamento do projeto e é um plano auxiliar do Plano de gerenciamento do projeto.
+Tem como objetivo aumentar a probabilidade e o impacto dos eventos positivos, reduzir a probabilidade e o impacto dos eventos negativos no projeto e orientar a equipe do projeto sobre como os processos de riscos serão executados.
+
+2	Gerenciamento dos riscos 
+[Use as seções seguintes para identificar os componentes do Plano de gerenciamento dos riscos ou modifique-as para encontrar suas necessidades. ]
+
+2.1	Processos de Riscos
+[Descreva os Processos de Gerenciamento dos riscos a serem adotados no projeto. ]
+
+Identificar os riscos 
+Determinar quais riscos podem afetar o projeto e documentar suas características.
+
+Realizar a análise qualitativa dos riscos 
+Avaliar a exposição ao risco para priorizar os riscos que serão objetos de análise ou ação adicional.
+
+Realizar a análise quantitativa dos riscos 
+Efetuar a análise numérica do efeito dos riscos identificados nos objetivos gerais do projeto.
+
+Planejar as respostas aos riscos 
+Desenvolver opções e ações para aumentar as oportunidades e reduzir as ameaças aos objetivos do projeto.
+
+Controlar os riscos
+Monitorar e controlar os riscos durante o ciclo de vida do projeto.
+
+2.2	Documentos padronizados de risco
+[Descreva os documentos padronizados a serem usadas nos processos dos riscos. Indique onde estão armazenados, como serão usados, e os responsáveis envolvidos. ]
+[Exemplo:
+Documento	Descrição	Template
+Plano de gerenciamento dos riscos
+O Plano de Gerenciamento dos riscos tem como objetivo aumentar a probabilidade e o impacto dos eventos positivos, reduzir a probabilidade e o impacto dos eventos negativos no projeto e orientar a equipe do projeto sobre como os processos de riscos serão executados.	Plano de gerenciamento dos riscos.docx
+
+Registro dos riscos
+O registro dos riscos é iniciado no processo Identificar os riscos e é atualizado conforme os outros processos de gerenciamento dos riscos (análise qualitativa, quantitativa, planejar as respostas aos riscos e monitorar e controlar os riscos) são conduzidos, resultando em um aumento no nível e no tipo de informações contidas no registro dos riscos ao longo do tempo.	Registro dos riscos.xlsx
+
+]
+
+
+2.3	Responsabilidades dos riscos da Equipe do Projeto
+[Descreva as responsabilidades referentes aos processos dos riscos de cada membro do projeto, mesmo que já citados em outros tópicos do documento. Ressaltar as divisões de responsabilidade entre compras, projetos e jurídico. ]
+[Exemplo:
+Membro da Equipe	Responsabilidades
+GP	Certificar que os riscos foram identificados e tratados de modo a aumentar a probabilidade e o impacto dos eventos positivos, reduzir a probabilidade e o impacto dos eventos negativos no projeto.
+Monitorar os riscos conforme descrito neste plano.
+Divulgar informações pertinentes aos riscos do projeto
+Advogado	Assessorar juridicamente o GP em relação às decisões contratuais relacionadas aos riscos
+Patrocinador/Comitê do Projeto	Aprovar o plano de gerenciamento de riscos e suas reservas de contingências.
+Aprovar o uso das reservas de contingência.
+	
+]
+
+Membro da Equipe	Responsabilidades
+	
+
+2.4	Ferramentas usadas
+[Lista as ferramentas que o projeto empregará. Descreve como serão usadas e o responsável por isso. Saiba mais em Ferramentas de Riscos do Guia PMBOK®. ]
+[Exemplo:
+Ferramenta	Descrição da aplicação	Quando aplicar	Responsável
+Brainstorming
+Será usado para identificar riscos	No início do projeto e sempre que for necessário revisar os riscos identificados	Gerente do Projeto
+			
+			
+			
+
+]
+
+
+
+
+3	Identificar os riscos
+[Descreva como os riscos serão determinados e documentados. Saiba mais em Identificar os riscos. ]
+[Exemplo:
+Será usado o Brainstorming para identificar os riscos do projeto.
+O Gerente de projetos deverá compor uma equipe multidisciplinar para participar do brainstorming de modo que todas as áreas estejam bem representadas e que os riscos principais do projeto sejam identificados.
+
+]
+
+
+3.1	EAR (Estrutura Analítica dos Riscos)
+[Determinar as categorias e subcategorias de riscos e melhor forma de agrupá-las de modo a facilitar seu gerenciamento. ]
+[Exemplo:
+ 
+
+]
+
+
+
+3.2	Riscos
+[Riscos identificados e como serão tratados (Tipos de Contrato, Cláusulas, Requisitos de bônus de desempenho, seguros, ...). ]
+[Exemplo:
+Os riscos estão detalhados no Registro dos riscos em anexo.
+]
+
+
+4	Realizar a análise qualitativa dos riscos
+[Descreva como será feita a análise qualitativa dos riscos. Saiba mais em Realizar a análise qualitativa dos riscos.]
+
+4.1	Definições de probabilidade e impacto dos riscos
+[Definir como será feio a Avaliação de probabilidade e impacto dos riscos. ]
+[Exemplo:
+Probabilidade	% de certeza
+1-Muito baixa	0 a 20%
+2-Baixa	20 a 40%
+3-Média	40 a 60%
+4-Alta	60 a 80%
+5-Muito Alta	> 80%
+
+Impacto
+1-Muito baixo
+2-Baixo
+3-Médio
+4-Alto
+5-Muito Alto
+
+O impacto varia de acordo com a área impactada. Veja o quadro abaixo orientando como classificar o impacto.
+Quando um risco impactar mais de uma área, deverá ser usada a área mais impactada.
+	Muito baixo
+(Nota = 1)	Baixo
+(Nota = 2)	Médio
+(Nota = 3)	Alto
+(Nota = 4)	Muito alto
+(Nota = 5)
+Custo	Até 2% no orçamento	De 2 a 5% no orçamento	De 5 a 8% no orçamento	De 8 a 10% no orçamento	Acima de 10% no orçamento
+Tempo	Até 2% no prazo total	De 2 a 5% no prazo	De 5 a 8% no prazo	De 8 a 10% no prazo	Acima de 10% no prazo
+Escopo		Mudança impactará no custo	Mudança impactará no custo e no tempo 	Mudança impactará no custo, tempo e qualidade 	
+
+
+O grau do risco (G = I x P) está definido na matriz de probabilidade x impacto demonstrada abaixo.
+Matriz de Probabilidade x Impacto
+Probabilidade					
+5	5	10	15	20	25
+4	4	8	12	16	20
+3	3	6	9	12	15
+2	2	4	6	8	10
+1	1	2	3	4	5
+Impacto	1	2	3	4	5
+
+Os graus de riscos serão priorizados da seguinte forma: 
+•	Vermelho: risco elevado;
+•	Amarelo: risco médio; 
+•	Verde: risco baixo.
+]
+
+
+5	Realizar a análise quantitativa dos riscos
+[Descreva como será feita a análise quantitativa dos riscos. Saiba mais em Realizar a análise quantitativa dos riscos.]
+[Exemplo:
+A análise de risco quantitativa não será usada por padrão. Caso o Comitê do Projeto decida pelo seu uso pós-análise de riscos qualitativa, será contratada empresa especializada para fazê-lo.
+]
+
+
+6	Planejar as respostas aos riscos
+[Descreva como os riscos serão tratados e como serão determinadas as respostas aos riscos. Saiba mais em Planejar as respostas aos riscos.]
+
+6.1	Reservas de contingência
+[Identificar as Estratégias de respostas de contingência quantificando as reservas de contingência e determinando como serão usadas. ]
+[Exemplo:
+Para os riscos não identificados e os identificados e tratados via reserva de contingência, o orçamento e o prazo original serão aumentados em 10%.
+O comitê do projeto deverá aprovar o uso das reservas de contingência em reunião que ocorrerá toda primeira segunda-feira de todo mês.
+]
+
+6.2	Estratégias para riscos negativos ou ameaças
+[Identificar as Estratégias para riscos negativos ou ameaças. ]
+
+Estratégia	Descrição	Exemplo
+Eliminar	Remover em 100% a probabilidade que a ameaça ocorra.	Cancelar o projeto;
+Transferir	Transferir total ou parcial o impacto em relação a uma ameaça para um terceiro.	Fazer um seguro;
+Mitigar	Reduzir a probabilidade e/ou impacto de um risco.	Redundância de recursos;
+Aceitar	De forma ativa, estabelecendo plano de contingência caso o evento ocorra; ou de forma passiva, o risco será tratado quando ocorrer.	
+
+
+6.3	Estratégias para riscos positivos ou oportunidades
+[Identificar as Estratégias para riscos positivos ou oportunidades. ]
+
+Estratégia	Descrição
+Explorar	Garantir que a oportunidade ocorra para explorar seus benefícios;
+Compartilhar	Transferir total ou parcial a propriedade da oportunidade para um terceiro que tem maior capacidade de explorá-la;
+Melhorar	Aumentar probabilidade e/ou impacto de uma oportunidade;
+Aceitar	Tirar proveito caso a oportunidade ocorra.
+
+
+
+
+7	Controlar os riscos
+[Descreva como os riscos serão monitorados e controlados. Saiba mais em Controlar os riscos.]
+[Exemplo:
+O GP e os responsáveis definidos na matriz de responsabilidade devem acompanhar os riscos identificados, monitorar os riscos residuais, identificar novos riscos, executar os planos de respostas a riscos e avaliar sua eficácia durante todo o ciclo de vida do projeto.
+O gerente de projeto executa o que foi planejado na análise de riscos e controla os riscos novos identificados durante a execução do projeto. 
+Este processo consiste de:
+•	Identificar, analisar, e planejar para riscos novos;
+•	Monitorar os riscos identificados;
+•	Analisar novamente os riscos existentes de acordo com as mudanças de contexto;
+•	Monitorar condições para ativar planos de contingência;
+•	Monitorar riscos residuais;
+•	Rever a execução do plano de respostas aos riscos para avaliar sua eficácia;
+•	Determina se as premissas do projeto ainda são válidas;
+•	Determinar se as políticas e os procedimentos de gestão de risco estão sendo seguidas;
+•	Determinar se as reservas de contingência de custo e prazo devem ser modificadas com os riscos do projeto.
+CheckList
+Implementar a análise de risco aprovada.
+Identificar novos riscos e gerenciá-los adequadamente.
+Atualizar o plano de resposta de riscos com os riscos novos. 
+Incluir um sumário dos riscos nas reuniões de status.
+Revisar todos os documentos impactados.
+Conduzir sessões para avaliar os riscos se necessário.
+]
+
+
+Aprovações
+Participante	Assinatura	Data
+Patrocinador do Projeto		
+Gerente do Projeto		
+
+
+----------------------------------------------------------------------------------------
+
 ## Introdução
 
 Neste projeto faz-se o enquadramento do projeto desenvolvido, que tem como base a implementação de ferramentas lean manufacturing na organização da produção. Será também
