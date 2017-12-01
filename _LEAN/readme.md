@@ -2,24 +2,58 @@ Bem-Vindo ao projeto da Logística Sustentável utilizando Lean! Aqui você encontr
 
 # Iniciação do Projeto
 
-# 1. Objetivo do Plano de gerenciamento dos riscos<br/>
+# 1 Objetivo do Plano de gerenciamento dos riscos <br/>
 
 ## Metodologia<br/>
 
 Os Processos de desenvolvimento devem ser simplificados, eficientes e voltados para a produção de resultados. Tem como base a Produção Enxuta (Lean Production) e pode ser utilizada em conjunto com outras metodologias ágeis.<br/>
+
+* O controle do backlog será realizado pelo product owner;
+* O quadro de acompanhamento do desenvolvimento;
+* Reuniões diárias para acompanhamento da equipe.
+
+## Funções e Responsabilidades <br/>
+ 
+* A equipe será dividida em grupos de no mínimo 2. 
+* Iremos nos reunir com o Product Owner no início de cada interação/semana.
+* Teremos uma reunião diária no início do dia para levantamento das atividades e dificuldades de cada equipe. 
+* Sempre que necessário o Product Owner será convidado para vir até a empresa para esclarecimentos.
+* Cada entrega será validada pelo Product Owner. 
+
+## Orçamentação <br/>
+
+Para cálculos de custos levaremos em consideração: <br/>
+* Homem/hora da equipe.
+* Equipamento/hora para o desenvolvimento
+* Taxa de 5% do valor projeto para possíveis riscos (Taxa que nos propomos a devolver caso o risco nao venha a ocorrer). 
+
+## Tempos <br/>
+## Categorias de risco <br/>
+## Definições de probabilidade e impacto de riscos <br/>
+## Matriz de probabilidade e impacto <br/>
+## Revisão das tolerâncias das partes interessadas <br/>
+## Formatos de relatórios <br/>
+## Forma de acompanhamento <br/> 
  
 [Descreva o objetivo do Plano de gerenciamento dos riscos. ]
 Gerenciar os riscos do projeto requer um Plano de gerenciamento dos riscos descrevendo como os processos de riscos serão estruturados e executados iniciando pela identificação dos riscos, suas análises qualitativa e quantitativa, seu plano de respostas e concluindo com a forma que os riscos serão controlados e monitorados.
 O Plano de gerenciamento dos riscos é desenvolvido e aprovado durante a fase de planejamento do projeto e é um plano auxiliar do Plano de gerenciamento do projeto.
 Tem como objetivo aumentar a probabilidade e o impacto dos eventos positivos, reduzir a probabilidade e o impacto dos eventos negativos no projeto e orientar a equipe do projeto sobre como os processos de riscos serão executados.
 
-2	Gerenciamento dos riscos 
+## 2 Gerenciamento dos riscos  <br/>
 [Use as seções seguintes para identificar os componentes do Plano de gerenciamento dos riscos ou modifique-as para encontrar suas necessidades. ]
 
 2.1	Processos de Riscos
 [Descreva os Processos de Gerenciamento dos riscos a serem adotados no projeto. ]
 
-Identificar os riscos 
+* Identificação dos riscos <br/>
+
+| Risco | Característica |
+| --- | --- |
+| Não disponibilizar servidor em tempo hábil | Durante o projeto a equipe não se preocupou em disponibilizar os recursos físicos em tempo hábil para execução de testes em ambiente de produção |
+| O cliente não participar das reuniões | O cliente não se propôs a participar das reuniões como acordo firmado em contrato. |
+| Atraso no tempo previsto para entrega do projeto | O prazo estipulado para entrega do produto não pode ser cumprindo. |
+
 Determinar quais riscos podem afetar o projeto e documentar suas características.
 
 Realizar a análise qualitativa dos riscos 
