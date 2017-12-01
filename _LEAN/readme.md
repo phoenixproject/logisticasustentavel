@@ -44,7 +44,6 @@ Tem como objetivo aumentar a probabilidade e o impacto dos eventos positivos, re
 [Use as seções seguintes para identificar os componentes do Plano de gerenciamento dos riscos ou modifique-as para encontrar suas necessidades. ]
 
 2.1	Processos de Riscos
-[Descreva os Processos de Gerenciamento dos riscos a serem adotados no projeto. ]
 
 * Identificação dos riscos <br/>
 
@@ -53,6 +52,8 @@ Tem como objetivo aumentar a probabilidade e o impacto dos eventos positivos, re
 | Não disponibilizar servidor em tempo hábil | Durante o projeto a equipe não se preocupou em disponibilizar os recursos físicos em tempo hábil para execução de testes em ambiente de produção |
 | O cliente não participar das reuniões | O cliente não se propôs a participar das reuniões como acordo firmado em contrato. |
 | Atraso no tempo previsto para entrega do projeto | O prazo estipulado para entrega do produto não pode ser cumprindo. |
+| Cliente está localizado fisicamente numa zona de violência urbana acentuada | O acesso a empresa do cliente requer atenção redobrada. |
+| Existência de sabotadores de projeto dentro da empresa | O cliente possui funcionários que tem resistência a mudanças por motivos escusos. |
 
 Determinar quais riscos podem afetar o projeto e documentar suas características.
 
@@ -112,30 +113,16 @@ Será usado para identificar riscos	No início do projeto e sempre que for necessá
 
 
 
-3	Identificar os riscos
-[Descreva como os riscos serão determinados e documentados. Saiba mais em Identificar os riscos. ]
-[Exemplo:
-Será usado o Brainstorming para identificar os riscos do projeto.
-O Gerente de projetos deverá compor uma equipe multidisciplinar para participar do brainstorming de modo que todas as áreas estejam bem representadas e que os riscos principais do projeto sejam identificados.
+# 3 - Identificar os riscos <br/>
 
-]
+* Será usado o Brainstorming para identificar os riscos do projeto.
+* O Gerente de projetos deverá compor uma equipe multidisciplinar para participar do brainstorming de modo que todas as áreas estejam bem representadas e que os riscos principais do projeto sejam identificados.
+* O controle das atividades será feito através do quadro Kanban, e a priorização das histórias de usuário será feita pelo Product Owner.
+* Alterando o Modelo padrão do Kanban as atividades não serão “Puxadas”, iremos definir sprint’s para cada entrega.
 
+# 3.1 -	EAR (Estrutura Analítica dos Riscos)
 
-3.1	EAR (Estrutura Analítica dos Riscos)
-[Determinar as categorias e subcategorias de riscos e melhor forma de agrupá-las de modo a facilitar seu gerenciamento. ]
-[Exemplo:
- 
-
-]
-
-
-
-3.2	Riscos
-[Riscos identificados e como serão tratados (Tipos de Contrato, Cláusulas, Requisitos de bônus de desempenho, seguros, ...). ]
-[Exemplo:
-Os riscos estão detalhados no Registro dos riscos em anexo.
-]
-
+![Alt text](https://github.com/phoenixproject/viagemestelar/blob/master/_MEDIA/diagrama_de_subsistemas.png?raw=true "Diagrama de Subsistemas")
 
 4	Realizar a análise qualitativa dos riscos
 [Descreva como será feita a análise qualitativa dos riscos. Saiba mais em Realizar a análise qualitativa dos riscos.]
@@ -187,43 +174,30 @@ Os graus de riscos serão priorizados da seguinte forma:
 ]
 
 
-5	Realizar a análise quantitativa dos riscos
-[Descreva como será feita a análise quantitativa dos riscos. Saiba mais em Realizar a análise quantitativa dos riscos.]
-[Exemplo:
+# 5 - Análise quantitativa dos riscos
+
 A análise de risco quantitativa não será usada por padrão. Caso o Comitê do Projeto decida pelo seu uso pós-análise de riscos qualitativa, será contratada empresa especializada para fazê-lo.
-]
 
 
-6	Planejar as respostas aos riscos
-[Descreva como os riscos serão tratados e como serão determinadas as respostas aos riscos. Saiba mais em Planejar as respostas aos riscos.]
+# 6 - Planejar as respostas aos riscos
 
-6.1	Reservas de contingência
-[Identificar as Estratégias de respostas de contingência quantificando as reservas de contingência e determinando como serão usadas. ]
-[Exemplo:
+## 6.1 - Reservas de contingência
+
 Para os riscos não identificados e os identificados e tratados via reserva de contingência, o orçamento e o prazo original serão aumentados em 10%.
 O comitê do projeto deverá aprovar o uso das reservas de contingência em reunião que ocorrerá toda primeira segunda-feira de todo mês.
-]
 
-6.2	Estratégias para riscos negativos ou ameaças
-[Identificar as Estratégias para riscos negativos ou ameaças. ]
+## 6.2 - Estratégias para riscos negativos ou ameaças
 
-Estratégia	Descrição	Exemplo
-Eliminar	Remover em 100% a probabilidade que a ameaça ocorra.	Cancelar o projeto;
-Transferir	Transferir total ou parcial o impacto em relação a uma ameaça para um terceiro.	Fazer um seguro;
-Mitigar	Reduzir a probabilidade e/ou impacto de um risco.	Redundância de recursos;
-Aceitar	De forma ativa, estabelecendo plano de contingência caso o evento ocorra; ou de forma passiva, o risco será tratado quando ocorrer.	
+| Estratégia | Descrição | Exemplo |
+| -- | -- | -- |
+| -- | -- | -- |
 
+## 6.3 - Estratégia	Descrição	Exemplo
 
-6.3	Estratégias para riscos positivos ou oportunidades
-[Identificar as Estratégias para riscos positivos ou oportunidades. ]
+| Estratégia | Descrição |
+| -- | -- |
 
-Estratégia	Descrição
-Explorar	Garantir que a oportunidade ocorra para explorar seus benefícios;
-Compartilhar	Transferir total ou parcial a propriedade da oportunidade para um terceiro que tem maior capacidade de explorá-la;
-Melhorar	Aumentar probabilidade e/ou impacto de uma oportunidade;
-Aceitar	Tirar proveito caso a oportunidade ocorra.
-
-# 7 Controlar os riscos <br/>
+# 7 - Controlar os riscos <br/>
 
 O GP e os responsáveis definidos na matriz de responsabilidade devem acompanhar os riscos identificados, monitorar os riscos residuais, identificar novos riscos, executar os planos de respostas a riscos e avaliar sua eficácia durante todo o ciclo de vida do projeto.
 O gerente de projeto executa o que foi planejado na análise de riscos e controla os riscos novos identificados durante a execução do projeto. <br/>
