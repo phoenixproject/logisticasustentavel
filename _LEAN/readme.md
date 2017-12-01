@@ -2,9 +2,12 @@ Bem-Vindo ao projeto da Logística Sustentável utilizando Lean! Aqui você encontr
 
 # Iniciação do Projeto
 
-1. Objetivo do Plano de gerenciamento dos riscos
- 1.1. Metodologia
- Os Processos de desenvolvimento devem ser simplificados, eficientes e voltados para a produção de resultados. Tem como base a Produção Enxuta (Lean Production) e pode ser utilizada em conjunto com outras metodologias ágeis.
+# 1. Objetivo do Plano de gerenciamento dos riscos<br/>
+
+## Metodologia<br/>
+
+Os Processos de desenvolvimento devem ser simplificados, eficientes e voltados para a produção de resultados. Tem como base a Produção Enxuta (Lean Production) e pode ser utilizada em conjunto com outras metodologias ágeis.<br/>
+ 
 [Descreva o objetivo do Plano de gerenciamento dos riscos. ]
 Gerenciar os riscos do projeto requer um Plano de gerenciamento dos riscos descrevendo como os processos de riscos serão estruturados e executados iniciando pela identificação dos riscos, suas análises qualitativa e quantitativa, seu plano de respostas e concluindo com a forma que os riscos serão controlados e monitorados.
 O Plano de gerenciamento dos riscos é desenvolvido e aprovado durante a fase de planejamento do projeto e é um plano auxiliar do Plano de gerenciamento do projeto.
