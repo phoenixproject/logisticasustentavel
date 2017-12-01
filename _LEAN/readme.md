@@ -223,38 +223,38 @@ Compartilhar	Transferir total ou parcial a propriedade da oportunidade para um t
 Melhorar	Aumentar probabilidade e/ou impacto de uma oportunidade;
 Aceitar	Tirar proveito caso a oportunidade ocorra.
 
+# 7 Controlar os riscos <br/>
 
-
-
-7	Controlar os riscos
-[Descreva como os riscos serão monitorados e controlados. Saiba mais em Controlar os riscos.]
-[Exemplo:
 O GP e os responsáveis definidos na matriz de responsabilidade devem acompanhar os riscos identificados, monitorar os riscos residuais, identificar novos riscos, executar os planos de respostas a riscos e avaliar sua eficácia durante todo o ciclo de vida do projeto.
-O gerente de projeto executa o que foi planejado na análise de riscos e controla os riscos novos identificados durante a execução do projeto. 
-Este processo consiste de:
-•	Identificar, analisar, e planejar para riscos novos;
-•	Monitorar os riscos identificados;
-•	Analisar novamente os riscos existentes de acordo com as mudanças de contexto;
-•	Monitorar condições para ativar planos de contingência;
-•	Monitorar riscos residuais;
-•	Rever a execução do plano de respostas aos riscos para avaliar sua eficácia;
-•	Determina se as premissas do projeto ainda são válidas;
-•	Determinar se as políticas e os procedimentos de gestão de risco estão sendo seguidas;
-•	Determinar se as reservas de contingência de custo e prazo devem ser modificadas com os riscos do projeto.
-CheckList
-Implementar a análise de risco aprovada.
-Identificar novos riscos e gerenciá-los adequadamente.
-Atualizar o plano de resposta de riscos com os riscos novos. 
-Incluir um sumário dos riscos nas reuniões de status.
-Revisar todos os documentos impactados.
-Conduzir sessões para avaliar os riscos se necessário.
-]
+O gerente de projeto executa o que foi planejado na análise de riscos e controla os riscos novos identificados durante a execução do projeto. <br/>
 
+### Este processo consiste de: <br/>
 
-Aprovações
-Participante	Assinatura	Data
-Patrocinador do Projeto		
-Gerente do Projeto		
+* Identificar, analisar, e planejar para riscos novos;
+* Monitorar os riscos identificados;
+* Analisar novamente os riscos existentes de acordo com as mudanças de contexto;
+* Monitorar condições para ativar planos de contingência;
+* Monitorar riscos residuais;
+* Rever a execução do plano de respostas aos riscos para avaliar sua eficácia;
+* Determina se as premissas do projeto ainda são válidas;
+* Determinar se as políticas e os procedimentos de gestão de risco estão sendo seguidas;
+* Determinar se as reservas de contingência de custo e prazo devem ser modificadas com os riscos do projeto.
+
+### CheckList <br/>
+
+* Implementar a análise de risco aprovada.
+* Identificar novos riscos e gerenciá-los adequadamente.
+* Atualizar o plano de resposta de riscos com os riscos novos. 
+* Incluir um sumário dos riscos nas reuniões de status.
+* Revisar todos os documentos impactados.
+* Conduzir sessões para avaliar os riscos se necessário.
+
+# Aprovações
+
+| Participante | Assinatura | Data |
+| -- | -- | -- |
+| Patrocinador do Projeto | -- | -- |
+| Gerente do Projeto | -- | -- |
 
 
 ----------------------------------------------------------------------------------------
