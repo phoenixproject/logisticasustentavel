@@ -105,6 +105,7 @@ Monitorar e controlar os riscos durante o ciclo de vida do projeto.
 ## 4.1 - Definições de probabilidade e impacto dos riscos
 
 | Probabilidade | % de certeza |
+| -- | -- |
 | 1 - Muito baixa | 0 a 20% |
 | 2 - Baixa | 20 a 40% |
 | 3 - Média | 40 a 60% |
@@ -112,6 +113,7 @@ Monitorar e controlar os riscos durante o ciclo de vida do projeto.
 | 5 - Muito Alta | > 80% |
 
 | Impacto |
+| -- |
 | 1 - Muito baixo |
 | 2 - Baixo |
 | 3 - Médio |
@@ -119,6 +121,7 @@ Monitorar e controlar os riscos durante o ciclo de vida do projeto.
 | 5 - Muito Alto |
 
 | -- | Muito Baixo (Nota = 1) |  Baixo (Nota = 2)  |  Médio (Nota = 3)  |  Alto (Nota = 4)  |  Muito Alto (Nota = 5) |
+| -- | -- | -- | -- | -- | -- |
 | Custo | Até 2% no orçamento | De 2 a 5% no orçamento | De 5 a 8% no orçamento | De 8 a 10% no orçamento | Acima de 10% no orçamento |
 | Tempo | Até 2% no prazo total | De 2 a 5% no prazo | De 5 a 8% no prazo | De 8 a 10% no prazo | Acima de 10% no prazo |
 | Escopo | -- | Mudança impactará no custo | Mudança impactará no custo e no tempo | Mudança impactará no custo, tempo e qualidade | -- |
@@ -139,7 +142,7 @@ O comitê do projeto deverá aprovar o uso das reservas de contingência em reunião
 
 | Estratégia | Descrição | Exemplo |
 | -- | -- | -- |
-| -- | -- | -- |
+
 
 ## 6.3 - Estratégia	Descrição	Exemplo
 
