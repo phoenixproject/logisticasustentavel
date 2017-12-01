@@ -70,18 +70,21 @@ Monitorar e controlar os riscos durante o ciclo de vida do projeto.
 ## 2.2 - Documentos padronizados de risco <br/>
 
 | Plano | Descrição | Template |
-| Plano de Logística Sustentável | O Plano de Gerenciamento dos riscos tem como objetivo aumentar a probabilidade e o impacto dos eventos positivos, reduzir a probabilidade e o impacto dos eventos negativos no projeto e orientar a equipe do projeto sobre como os processos de riscos serão executados. |  [Plano de Logística Sustentável](https://github.com/phoenixproject/viagemestelar/wiki) |
 | -- | -- | -- |
+| Plano de Logística Sustentável | O Plano de Gerenciamento dos riscos tem como objetivo aumentar a probabilidade e o impacto dos eventos positivos, reduzir a probabilidade e o impacto dos eventos negativos no projeto e orientar a equipe do projeto sobre como os processos de riscos serão executados. |  [Plano de Logística Sustentável](https://github.com/phoenixproject/viagemestelar/wiki) |
+
 
 ## 2.3 - Responsabilidades dos riscos da Equipe do Projeto  <br/>
 
 | Membro da Equipe | Responsabilidades | 
+| -- | -- |
 | Gerente de Projeto | Certificar que os riscos foram identificados e tratados de modo a aumentar a probabilidade e o impacto dos eventos positivos, reduzir a probabilidade e o impacto dos eventos negativos no projeto. Monitorar os riscos conforme descrito neste plano. Divulgar informações pertinentes aos riscos do projeto |
 | Programador | Mão de obra do projeto. |
 	
 ## 2.4 - Ferramentas usadas  <br/>
 
 | Ferramenta | Descrição da Aplicação | Quando aplicar | Responsável |
+| -- | -- | -- | -- |
 | Brrainstorm | Será usado para identificar riscos | No início do projeto e sempre que for necessário revisar os riscos identificados | Gerente do Projeto |
 | Lean | Será usado para diminuir o tamanho dos processos| No início do projeto e sempre que for necessário revisar os processos identificados como longos demais | Gerente e Equipe do Projeto |
 | Kanban | Será usado para organizar as reuniões com a equipe | Durante todo o projeto | Gerente e Equipe do Projeto |
