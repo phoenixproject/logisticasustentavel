@@ -1,8 +1,6 @@
 Bem-Vindo ao projeto da Logística Sustentável utilizando Lean! Aqui você encontra informações sobre o projeto, documentação, políticas e entidades envolvidas.
 
-# Iniciação do Projeto
-
-# 1 Objetivo do Plano de gerenciamento dos riscos <br/>
+# 1 - Objetivo do Plano de gerenciamento dos riscos <br/>
 
 ## Metodologia<br/>
 
@@ -40,10 +38,10 @@ Gerenciar os riscos do projeto requer um Plano de gerenciamento dos riscos descr
 O Plano de gerenciamento dos riscos é desenvolvido e aprovado durante a fase de planejamento do projeto e é um plano auxiliar do Plano de gerenciamento do projeto.
 Tem como objetivo aumentar a probabilidade e o impacto dos eventos positivos, reduzir a probabilidade e o impacto dos eventos negativos no projeto e orientar a equipe do projeto sobre como os processos de riscos serão executados.
 
-## 2 Gerenciamento dos riscos  <br/>
+# 2 - Gerenciamento dos riscos  <br/>
 [Use as seções seguintes para identificar os componentes do Plano de gerenciamento dos riscos ou modifique-as para encontrar suas necessidades. ]
 
-2.1	Processos de Riscos
+## 2.1 - Processos de Riscos <br/>
 
 * Identificação dos riscos <br/>
 
@@ -55,18 +53,18 @@ Tem como objetivo aumentar a probabilidade e o impacto dos eventos positivos, re
 | Cliente está localizado fisicamente numa zona de violência urbana acentuada | O acesso a empresa do cliente requer atenção redobrada. |
 | Existência de sabotadores de projeto dentro da empresa | O cliente possui funcionários que tem resistência a mudanças por motivos escusos. |
 
-Determinar quais riscos podem afetar o projeto e documentar suas características.
+* Determinar quais riscos podem afetar o projeto e documentar suas características.
 
-Realizar a análise qualitativa dos riscos 
+* Realizar a análise qualitativa dos riscos 
 Avaliar a exposição ao risco para priorizar os riscos que serão objetos de análise ou ação adicional.
 
-Realizar a análise quantitativa dos riscos 
+* Realizar a análise quantitativa dos riscos 
 Efetuar a análise numérica do efeito dos riscos identificados nos objetivos gerais do projeto.
 
-Planejar as respostas aos riscos 
+* Planejar as respostas aos riscos 
 Desenvolver opções e ações para aumentar as oportunidades e reduzir as ameaças aos objetivos do projeto.
 
-Controlar os riscos
+* Controlar os riscos
 Monitorar e controlar os riscos durante o ciclo de vida do projeto.
 
 ## 2.2 - Documentos padronizados de risco <br/>
@@ -81,73 +79,46 @@ Monitorar e controlar os riscos durante o ciclo de vida do projeto.
 | Gerente de Projeto | Certificar que os riscos foram identificados e tratados de modo a aumentar a probabilidade e o impacto dos eventos positivos, reduzir a probabilidade e o impacto dos eventos negativos no projeto. Monitorar os riscos conforme descrito neste plano. Divulgar informações pertinentes aos riscos do projeto |
 | Programador | Mão de obra do projeto. |
 	
-## 2.4	Ferramentas usadas  <br/>
+## 2.4 - Ferramentas usadas  <br/>
 
 | Ferramenta | Descrição da Aplicação | Quando aplicar | Responsável |
 | Brrainstorm | Será usado para identificar riscos | No início do projeto e sempre que for necessário revisar os riscos identificados | Gerente do Projeto |
 | Lean | Será usado para diminuir o tamanho dos processos| No início do projeto e sempre que for necessário revisar os processos identificados como longos demais | Gerente e Equipe do Projeto |
 | Kanban | Será usado para organizar as reuniões com a equipe | Durante todo o projeto | Gerente e Equipe do Projeto |
 
-# 3 - Identificar os riscos <br/>
+# 3 - Identificação dos riscos <br/>
 
 * Será usado o Brainstorming para identificar os riscos do projeto.
 * O Gerente de projetos deverá compor uma equipe multidisciplinar para participar do brainstorming de modo que todas as áreas estejam bem representadas e que os riscos principais do projeto sejam identificados.
 * O controle das atividades será feito através do quadro Kanban, e a priorização das histórias de usuário será feita pelo Product Owner.
 * Alterando o Modelo padrão do Kanban as atividades não serão “Puxadas”, iremos definir sprint’s para cada entrega.
 
-# 3.1 -	EAR (Estrutura Analítica dos Riscos)
+## 3.1 - EAR (Estrutura Analítica dos Riscos)
 
 ![Alt text](https://github.com/phoenixproject/logisticasustentavel/blob/master/_MEDIA/_LEAN/estrutura_analitica_projeto.jpg?raw=true "Estrutura Analítica do Projeto")
 
-4	Realizar a análise qualitativa dos riscos
-[Descreva como será feita a análise qualitativa dos riscos. Saiba mais em Realizar a análise qualitativa dos riscos.]
+# 4 - Análise qualitativa dos riscos
 
-4.1	Definições de probabilidade e impacto dos riscos
-[Definir como será feio a Avaliação de probabilidade e impacto dos riscos. ]
-[Exemplo:
-Probabilidade	% de certeza
-1-Muito baixa	0 a 20%
-2-Baixa	20 a 40%
-3-Média	40 a 60%
-4-Alta	60 a 80%
-5-Muito Alta	> 80%
+## 4.1 - Definições de probabilidade e impacto dos riscos
 
-Impacto
-1-Muito baixo
-2-Baixo
-3-Médio
-4-Alto
-5-Muito Alto
+| Probabilidade | % de certeza |
+| 1 - Muito baixa | 0 a 20% |
+| 2 - Baixa | 20 a 40% |
+| 3 - Média | 40 a 60% |
+| 4 - Alta | 60 a 80% |
+| 5 - Muito Alta | > 80% |
 
-O impacto varia de acordo com a área impactada. Veja o quadro abaixo orientando como classificar o impacto.
-Quando um risco impactar mais de uma área, deverá ser usada a área mais impactada.
-	Muito baixo
-(Nota = 1)	Baixo
-(Nota = 2)	Médio
-(Nota = 3)	Alto
-(Nota = 4)	Muito alto
-(Nota = 5)
-Custo	Até 2% no orçamento	De 2 a 5% no orçamento	De 5 a 8% no orçamento	De 8 a 10% no orçamento	Acima de 10% no orçamento
-Tempo	Até 2% no prazo total	De 2 a 5% no prazo	De 5 a 8% no prazo	De 8 a 10% no prazo	Acima de 10% no prazo
-Escopo		Mudança impactará no custo	Mudança impactará no custo e no tempo 	Mudança impactará no custo, tempo e qualidade 	
+| Impacto |
+| 1 - Muito baixo |
+| 2 - Baixo |
+| 3 - Médio |
+| 4 - Alto |
+| 5 - Muito Alto |
 
-
-O grau do risco (G = I x P) está definido na matriz de probabilidade x impacto demonstrada abaixo.
-Matriz de Probabilidade x Impacto
-Probabilidade					
-5	5	10	15	20	25
-4	4	8	12	16	20
-3	3	6	9	12	15
-2	2	4	6	8	10
-1	1	2	3	4	5
-Impacto	1	2	3	4	5
-
-Os graus de riscos serão priorizados da seguinte forma: 
-•	Vermelho: risco elevado;
-•	Amarelo: risco médio; 
-•	Verde: risco baixo.
-]
-
+| -- | Muito Baixo (Nota = 1) |  Baixo (Nota = 2)  |  Médio (Nota = 3)  |  Alto (Nota = 4)  |  Muito Alto (Nota = 5) |
+| Custo | Até 2% no orçamento | De 2 a 5% no orçamento | De 5 a 8% no orçamento | De 8 a 10% no orçamento | Acima de 10% no orçamento |
+| Tempo | Até 2% no prazo total | De 2 a 5% no prazo | De 5 a 8% no prazo | De 8 a 10% no prazo | Acima de 10% no prazo |
+| Escopo | -- | Mudança impactará no custo | Mudança impactará no custo e no tempo | Mudança impactará no custo, tempo e qualidade | -- |
 
 # 5 - Análise quantitativa dos riscos
 
